@@ -1,0 +1,12 @@
+[submodule "projects/solady"]
+	path = projects/solady
+	url = https://github.com/Vectorized/solady
+[submodule "projects/forge-std"]
+	path = projects/forge-std
+	url = https://github.com/brockelmore/forge-std
+[submodule "projects/solmate"]
+	path = projects/solmate
+	url = https://github.com/transmissions11/solmate
+[submodule "projects/openzeppelin"]
+	path = projects/openzeppelin
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
