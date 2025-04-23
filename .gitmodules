@@ -13,3 +13,6 @@
 [submodule "projects/aave-v3"]
 	path = projects/aave-v3
 	url = https://github.com/aave-dao/aave-v3-origin.git
+[submodule "projects/uniswap-v4"]
+	path = projects/uniswap-v4
+	url = https://github.com/Uniswap/v4-core.git
