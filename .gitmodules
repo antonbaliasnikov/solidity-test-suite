@@ -16,3 +16,6 @@
 [submodule "projects/uniswap-v4"]
 	path = projects/uniswap-v4
 	url = https://github.com/Uniswap/v4-core.git
+[submodule "projects/era-contracts"]
+	path = projects/era-contracts
+	url = https://github.com/matter-labs/era-contracts
