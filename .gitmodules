@@ -19,3 +19,18 @@
 [submodule "projects/era-contracts"]
 	path = projects/era-contracts
 	url = https://github.com/matter-labs/era-contracts
+[submodule "projects/ERC721K"]
+	path = projects/ERC721K
+	url = https://github.com/kadenzipfel/ERC721K
+[submodule "projects/maple-erc20"]
+	path = projects/maple-erc20
+	url = https://github.com/maple-labs/erc20
+[submodule "projects/lil-web3"]
+	path = projects/lil-web3
+	url = https://github.com/m1guelpf/lil-web3
+[submodule "projects/uniswap-v4-periphery"]
+	path = projects/uniswap-v4-periphery
+	url = https://github.com/Uniswap/v4-periphery
+[submodule "projects/thirdweb"]
+	path = projects/thirdweb
+	url = https://github.com/thirdweb-dev/contracts
