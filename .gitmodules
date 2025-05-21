@@ -13,15 +13,18 @@
 [submodule "projects/aave-v3"]
 	path = projects/aave-v3
 	url = https://github.com/aave-dao/aave-v3-origin.git
+	update = none
 [submodule "projects/uniswap-v4"]
 	path = projects/uniswap-v4
 	url = https://github.com/Uniswap/v4-core.git
 [submodule "projects/era-contracts"]
 	path = projects/era-contracts
 	url = https://github.com/matter-labs/era-contracts
+	update = none
 [submodule "projects/ERC721K"]
 	path = projects/ERC721K
 	url = https://github.com/kadenzipfel/ERC721K
+	update = none
 [submodule "projects/maple-erc20"]
 	path = projects/maple-erc20
 	url = https://github.com/maple-labs/erc20
@@ -31,6 +34,8 @@
 [submodule "projects/uniswap-v4-periphery"]
 	path = projects/uniswap-v4-periphery
 	url = https://github.com/Uniswap/v4-periphery
+	update = none
 [submodule "projects/thirdweb"]
 	path = projects/thirdweb
 	url = https://github.com/thirdweb-dev/contracts
+	update = none
